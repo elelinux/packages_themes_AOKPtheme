@@ -3,7 +3,7 @@ packages_themes_AOKPtheme
 
 AOKP Theme matching website colors
 
-Playstore link:
+Playstore link: https://play.google.com/store/apps/details?id=com.aokp.theme.swaggers
 
 Mantainer: Enrico D'Ortenzio
 
