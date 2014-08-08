@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+	<color name="no_recent_apps">#80e4418b</color>
+	<color name="status_bar_recents_app_label_color">#ff33b5e5</color>
+	<color name="batterymeter_frame_color">#66ffffff</color>
+	<color name="status_bar_clock_color">#ffffffff</color>
+    <color name="batterymeter_bolt_color">#ffe4418b</color>
+    <color name="batterymeter_full">#ffffffff</color>
+    <color name="batterymeter_charge_color">#ffffffff</color>
+    <color name="notification_panel_scrim_color">#00000000</color>
+</resources>

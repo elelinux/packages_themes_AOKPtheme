@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aokp.theme.swaggers" 
+    android:versionCode="2"
+    android:versionName="2" >
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="AOKP theme">
+    </application>
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="AOKP theme"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="EnricoD" />
+</manifest>

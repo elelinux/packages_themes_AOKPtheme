@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="TextAppearance.StatusBar.Expanded" parent="@*android:style/TextAppearance.StatusBar" />
+    <style name="TextAppearance.StatusBar.Expanded.Clock">
+        <item name="android:textSize">32dp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffe4418b</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Expanded.Date">
+        <item name="android:textSize">10.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+<style name="TextAppearance.QuickSettings" parent="@*android:style/TextAppearance" />
+	<style name="TextAppearance.StatusBar.Expanded.Network" parent="@style/TextAppearance.StatusBar.Expanded.Date">
+        <item name="android:textColor">#ffe4418b</item>
+    </style>
+</resources>

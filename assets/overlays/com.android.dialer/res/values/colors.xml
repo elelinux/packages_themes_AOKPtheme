@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+  <color name="dialpad_digits_text_color">#939393</color>
+  <color name="actionbar_background_color">#33b5e5</color>
+  <color name="dialpad_primary_text_color">#33b5e5</color>
+  <color name="background_dialpad">#000000</color>
+  <color name="dialpad_separator_line_color">#33b5e5</color>
+  <color name="background_dialpad_pressed">#88939393</color>
+  <color name="dialpad_secondary_text_color">#E4418B</color>
+</resources>
