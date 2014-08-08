@@ -16,7 +16,7 @@ Forums:
 
 XDA Thread: http://forum.xda-developers.com/android/themes/aokp-theme-cm11-theme-engine-t2841939
 
-Rootzwiki: http://rootzwiki.com/topic/217777-multi-res-aokp-theme-for-new-theme-engine/
+Rootzwiki thread: http://rootzwiki.com/topic/217777-multi-res-aokp-theme-for-new-theme-engine/
 
 
 
